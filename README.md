@@ -1,1 +1,1 @@
-# friendly-ios
+# FRIENDLY-IOS
